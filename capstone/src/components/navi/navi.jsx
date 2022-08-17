@@ -1,9 +1,9 @@
 import React from 'react'
 import './navi.css'
-const navi = () => {
+const Navi = () => {
   return (
     <div>navi</div>
   )
 }
 
-export default navi
+export default Navi
