@@ -31,4 +31,13 @@ html{
 body{
     font-family: 'Montserrat', sans-serif;
     background: var(--color-bg);
+    color: var(--color-white);
+    line-height: 1.7;
+    background-image: url(../assets/81C9E626-1L._AC_SL1010_.jpg);
+}
+
+/*=====================   GENARAL   ===========================*/
+.container{
+    width: var(--container-width-lg);
+    margin: 0 auto;
 }
