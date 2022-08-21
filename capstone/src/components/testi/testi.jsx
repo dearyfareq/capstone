@@ -2,7 +2,7 @@ import React from 'react'
 import './testi'
 const Testi = () => {
   return (
-    <div>testi</div>
+    <section id='testi'>testi</section>
   )
 }
 
