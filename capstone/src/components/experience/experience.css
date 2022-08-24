@@ -33,6 +33,10 @@ cursor: default;
     margin-top: 6px;
     color: var(--color-prime);
 }
+.odd{
+    color: var(--color-prime);
+    font-size: 2rem;
+}
 /*==================== MEDI-Q / med device ====================*/
 @media screen and (max-width: 1024px) {
     .experience__container{

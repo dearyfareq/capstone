@@ -36,7 +36,7 @@ header{
 .me{
     background: linear-gradient(var(--color-prime), transparent);
     width: 22rem;
-    height: 40rem;
+    height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
@@ -56,13 +56,13 @@ header{
 /*==================== MEDI-Q / med device ====================*/
 @media screen and (max-width: 1024px) {
     header{
-        height: 90vh;
+        height: 100vh;
     }
   }
 /*==================== MEDI-Q / sma device ====================*/
 @media screen and (max-width: 600px) {
     header{
-        height: 110vh;
+        height: 130vh;
     }
     .header__socials, .scroll__down{
         display: none;
