@@ -18,8 +18,10 @@ const Portfolio = () => {
             <img src={IMG1} alt="P1" />
           </div>
           <h3>this is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
           <a href="https://github.com" className='btn' rel="noreferrer" target='_blank'>Github</a>
           <a href="https://www.behance.net/" className='btn btn-prime' rel="noreferrer" target='_blank'>Behance</a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -27,8 +29,10 @@ const Portfolio = () => {
             <img src={IMG2} alt="P1" />
           </div>
           <h3>this is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
           <a href="https://github.com" className='btn' rel="noreferrer" target='_blank'>Github</a>
           <a href="https://www.behance.net/" className='btn btn-prime' rel="noreferrer" target='_blank'>Behance</a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -36,8 +40,10 @@ const Portfolio = () => {
             <img src={IMG3} alt="P1" />
           </div>
           <h3>this is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
           <a href="https://github.com" className='btn' rel="noreferrer" target='_blank'>Github</a>
           <a href="https://www.behance.net/" className='btn btn-prime' rel="noreferrer" target='_blank'>Behance</a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -45,8 +51,10 @@ const Portfolio = () => {
             <img src={IMG4} alt="P1" />
           </div>
           <h3>this is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
           <a href="https://github.com" className='btn' rel="noreferrer" target='_blank'>Github</a>
           <a href="https://www.behance.net/" className='btn btn-prime' rel="noreferrer" target='_blank'>Behance</a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -54,8 +62,10 @@ const Portfolio = () => {
             <img src={IMG5} alt="P1" />
           </div>
           <h3>this is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
           <a href="https://github.com" className='btn' rel="noreferrer" target='_blank'>Github</a>
           <a href="https://www.behance.net/" className='btn btn-prime' rel="noreferrer" target='_blank'>Behance</a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -63,8 +73,10 @@ const Portfolio = () => {
             <img src={IMG6} alt="P1" />
           </div>
           <h3>this is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
           <a href="https://github.com" className='btn' rel="noreferrer" target='_blank'>Github</a>
           <a href="https://www.behance.net/" className='btn btn-prime' rel="noreferrer" target='_blank'>Behance</a>
+          </div>
         </article>
       </div>
     </section>
