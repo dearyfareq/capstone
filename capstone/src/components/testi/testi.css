@@ -1,6 +1,7 @@
 .container.testimonials__container {
     width: 40%;
     gap: 2.5rem;
+    padding-bottom: 3rem;
 }
 .avatar{
     width: 20%;
@@ -24,6 +25,9 @@
     display: block;
     width: 80%;
     margin: 0.8rem auto 0;
+}
+.swiper-pagination-clickable .swiper-pagination-bullet{
+    background: var(--color-prime);
 }
 /*==================== MEDI-Q / med device ====================*/
 @media screen and (max-width: 1024px) {
