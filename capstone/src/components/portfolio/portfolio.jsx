@@ -6,6 +6,39 @@ import IMG3 from '../../assests/portfolio3.jpg'
 import IMG4 from '../../assests/portfolio4.jpg'
 import IMG5 from '../../assests/portfolio5.png'
 import IMG6 from '../../assests/portfolio6.jpg'
+
+const data =[
+  {id: 1,
+  image: IMG1,
+  title:'title1',
+  github:'link'
+  },
+  {id: 2,
+    image: IMG1,
+    title:'title1',
+    github:'link',
+  },
+  {id: 3,
+      image: IMG1,
+      title:'title1',
+      github:'link'
+  },
+  {id: 4,
+    image: IMG1,
+    title:'title1',
+    github:'link'
+  },
+  {id: 5,
+    image: IMG1,
+    title:'title1',
+    github:'link'
+  },
+  {id: 6,
+    image: IMG1,
+    title:'title1',
+    github:'link'
+  }
+]
 const Portfolio = () => {
   return (
     <section id='portfolio'>
