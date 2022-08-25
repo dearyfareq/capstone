@@ -26,3 +26,18 @@
     gap: 1rem ;
     margin-bottom: 0.5rem;
 }
+/*==================== MEDI-Q / med device ====================*/
+@media screen and (max-width: 1024px) {
+    .portfolio__container{
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2rem;
+    }
+}
+  /*==================== MEDI-Q / Sma device ====================*/
+  @media screen and (max-width: 600px) {
+
+    .portfolio__container{
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+  }
