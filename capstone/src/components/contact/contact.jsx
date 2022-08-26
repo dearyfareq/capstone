@@ -16,21 +16,21 @@ const Contact = () => {
             <GoMail/>
             <h4>Email</h4>
             <h5>dearyfariq15@gmail.com</h5>
-            <a href="mailto:dearyfariq15@gmail.com">Send a message</a>
+            <a href="mailto:dearyfariq15@gmail.com"  rel="noreferrer" target='_blank'>Send a message</a>
           </article>
 
           <article className='contact__option'>
             <RiMessengerLine/>
             <h4>Messenger</h4>
             <h5>Deary Fareq</h5>
-            <a href="https://m.me/deary.fareq">Send a message</a>
+            <a href="https://m.me/deary.fareq"  rel="noreferrer" target='_blank'>Send a message</a>
           </article>
 
           <article className='contact__option'>
             <FaWhatsapp/>
             <h4>WhatsApp</h4>
             <h5>dearyfariq15@gmail.com</h5>
-            <a href="https://api.whatsapp.com/send?phone=9647511913938">Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=9647511913938"  rel="noreferrer" target='_blank'>Send a message</a>
           </article>
 
         </div>
