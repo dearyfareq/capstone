@@ -63,7 +63,7 @@ const Contact = () => {
           </article>
         </div>
         {/* contact options */}
-        <form rel={form} onSubmit={sendEmail}>
+        <form rel={form} onsubmit={sendEmail}>
           <input
             type="text"
             name="name"
