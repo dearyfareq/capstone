@@ -29,6 +29,9 @@
 .swiper-pagination-clickable .swiper-pagination-bullet{
     background: var(--color-prime);
 }
+.h2{
+    color: var(--color-prime);
+}
 /*==================== MEDI-Q / med device ====================*/
 @media screen and (max-width: 1024px) {
     .container.testimonials__container{

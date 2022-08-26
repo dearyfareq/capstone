@@ -21,29 +21,35 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>experince</h5>
-              <small>+3 years of konwlage</small>
+              <h5>experinced</h5>
+              <small>In a wide range of fields</small>
             </article>
 
             <article className="about__card">
               <FaUserTie className="about__icon" />
-              <h5>clients</h5>
+              <h5>Personals assisted</h5>
               <small>100+ localy</small>
             </article>
 
             <article className="about__card">
               <GoGraph className="about__icon" />
               <h5>projects</h5>
-              <small>done in many fields</small>
+              <small>Done in different subjects</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto
-            ipsum iusto odit aperiam tenetur, voluptate provident accusamus fuga
-            itaque? Voluptates eveniet ab similique. Officia minus reprehenderit
-            impedit animi laudantium iusto.
-          </p> 
-          <a href="#contact" className="btn btn-primary">Let's talk!</a>
+            I am an ambitious young student who thrives to become a person who
+            will help both the old and new generation in this ever so quickly
+            developing society, I chose mechanical and mechatronical engineering
+            as my major so as to gain expertise in many different fields in
+            order to achieve my goals; I have also worked voluntarily in
+            seminars and courses around the topics of communication, equality,
+            human rights and self-development; while also learning programing
+            and art through both digital and hand methods.
+          </p>
+          <a href="#contact" className="btn btn-primary">
+            Let's talk!
+          </a>
         </div>
       </div>
     </section>
