@@ -35,7 +35,12 @@ const Contact = () => {
 
         </div>
         {/* contact options */}
-        <form action=""></form>
+        <form action="">
+          <input type="text" name='name' placeholder='your full name' required/>
+          <input type="email" name='email' placeholder='your Email' required/>
+          <textarea name="message"  rows="7" placeholder='your review' required></textarea>
+          <button type='submit' className='btn btn-prime'>Send message</button>
+        </form>
       </div>
     </section>
   )
