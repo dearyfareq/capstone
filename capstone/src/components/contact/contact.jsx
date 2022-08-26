@@ -5,6 +5,7 @@ import { RiMessengerLine } from "react-icons/ri";
 import { FaWhatsapp } from "react-icons/fa";
 import { useRef } from "react";
 import emailjs from "emailjs-com";
+
 const Contact = () => {
   const form = useRef();
 
@@ -62,7 +63,7 @@ const Contact = () => {
           </article>
         </div>
         {/* contact options */}
-        <form rel={form} onsubmit={sendEmail}>
+        <form rel={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
