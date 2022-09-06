@@ -1,4 +1,4 @@
-1-for the capstone project of our bootcamp, I made a portfolio Webpage using react, it made it easier to make components
+1-for the capstone project of our bootcamp, I made a portfolio Webpage using react, it made it easier to make components </br>
 2-no frameworks or any of the such were used, all the code and the media Q were done manually for the sake of setting this information in stone/brain
 3-I would like to notify you that the Capstone project has been "FINISHED", I say it like that because I still don't have your feedback and there is surely room for improvement
 
